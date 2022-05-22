@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "Woodbury Rd at Walt Whitman School, Woodbury, NY 11797, USA" ],
+   "origin_addresses" : [ "1230 Sutter Ave, Brooklyn, NY 11208, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "51.1 km",
+                  "value" : 51061
+               },
+               "duration" : {
+                  "text" : "43 mins",
+                  "value" : 2565
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

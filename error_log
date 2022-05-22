@@ -1,0 +1,2 @@
+[31-Dec-2019 09:59:50 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/quizhunt/public_html/smart_nurse/app/Http/Controllers/SchedulerController.php on line 720
+[31-Dec-2019 09:59:59 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/quizhunt/public_html/smart_nurse/app/Http/Controllers/SchedulerController.php on line 720
